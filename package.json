@@ -1,6 +1,5 @@
 {
   "jspm": {
-    "directories": {},
     "dependencies": {
       "jquery": "github:components/jquery@^2.1.4",
       "lodash": "npm:lodash@^3.10.1"
